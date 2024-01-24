@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello there 👋 I'm Gregorio
+I'm a PhD candidate at the [CIMIL](https://www.cimil.disi.unitn.it/) (University of Trento).
 
+My research interests include:
+- Digital Signal Processing
+- (Real-time) Audio generation with Neural Audio Synthesis or classic DSP
+- Music generation
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domenicostefani&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gregogiudici/gregogiudici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
