@@ -5,8 +5,9 @@ I obtained my master’s degree in Electronic Engineering, curriculum Electronic
 
 My research interests include: 🎹🎵 
 - Digital Signal Processing 
-- (Real-time) Audio generation with Neural Audio Synthesis or classic DSP
+- Neural Audio Synthesis
 - Music generation
+- Machine Learning and Deep Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregogiudici&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
