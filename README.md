@@ -1,12 +1,12 @@
 ### Hello there 👋 I'm Gregorio
-I'm a PhD candidate at the [CIMIL](https://www.cimil.disi.unitn.it/) (University of Trento).
+I'm a PhD candidate at the [CIMIL](https://www.cimil.disi.unitn.it/) (University of Trento, Italy).
 
-I obtained my master’s degree in Electronic Engineering, curriculum Electronic Systems for Digital Audio Applications, from the Polytechnic University of Marche in Ancona (Italy)
+I obtained my master’s degree in Electronic Engineering, curriculum *Electronic Systems for Digital Audio Applications*, from the Polytechnic University of Marche in Ancona (Italy)
 
 My research interests include: 🎹🎵 
 - Digital Signal Processing 
 - Neural Audio Synthesis
-- Music generation
+- Music Generation
 - Machine Learning and Deep Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregogiudici&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
